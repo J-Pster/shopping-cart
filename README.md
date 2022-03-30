@@ -6,7 +6,7 @@ Este projeto foi feito durante o bloco de Fundamentos na [Trybe](https://www.bet
 Consiste em um site, feito em HTML, CSS e JavaScript, aonde recebemos produtos da API do Mercado Livre e renderizamos na Página de forma assincrona, depois, ao clicar nos produtos, podemos adiciona-los a um carrinho, calculando o valor total.
 
 ### Comentários
-- [] 1: Fazer a refatoração do código.
+- [ ] 1: Fazer a refatoração do código.
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
