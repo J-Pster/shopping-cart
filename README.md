@@ -6,7 +6,7 @@ Este projeto foi feito durante o bloco de Fundamentos na [Trybe](https://www.bet
 Consiste em um site, feito em HTML, CSS e JavaScript, aonde recebemos produtos da API do Mercado Livre e renderizamos na Página de forma assincrona, depois, ao clicar nos produtos, podemos adiciona-los a um carrinho, calculando o valor total.
 
 ### Comentários
-- [] 1: Fazer a refatoração do código.
+- [ ] 1: Fazer a refatoração do código.
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
@@ -18,3 +18,5 @@ Você pode me encontrar no [LinkedIn][1], ou no [WhatsApp][2].
 [1]: https://www.linkedin.com/in/joaopster/
 [2]: https://api.whatsapp.com/send?phone=5562992765354&text=Ol%C3%A1%2C%20%C3%A9%20o%20Pster%3F%20Venho%20do%20Github.
 
+### Créditos e Avisos Legais
+- As funções: createProductImageElement, createCustomElement, createProductItemElement, getSkuFromProductItem e createCartItemElement foram criadas pela [Trybe](https://www.betrybe.com/), portanto são de direito da mesma.
