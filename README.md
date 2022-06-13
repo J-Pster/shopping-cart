@@ -19,12 +19,9 @@ Neste projeto, verificamos que você é capaz de:
 # Instruções para rodar o Projeto:
 
 1. Clone o repositório
-  * `git clone git@github.com:J-Pster/solara-system.git`
+  * `git clone git@github.com:J-Pster/shopping-cart.git`
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd solar-system`
-
-2. Inicialize o projeto
-    * `npm start` (uma nova página deve abrir no seu navegador com o projeto)
+    * `cd shopping-cart`
 
 ---
 
